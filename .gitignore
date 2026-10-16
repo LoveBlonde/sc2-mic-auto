@@ -1,0 +1,9 @@
+audio-tools/
+*.zip
+config.json
+install.json
+devices.csv
+sc2_mic_state.*
+sc2_mic_stop
+*.log
+__pycache__/
