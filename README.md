@@ -6,6 +6,8 @@
 
 Windows 로그인 시 백그라운드에서 시작하므로 평소처럼 Battle.net에서 게임을 실행하면 됩니다. 특정 헤드셋에 고정되어 있지 않고 설치 중 자신의 녹음 장치를 선택합니다.
 
+**[최신 버전 다운로드](https://github.com/LoveBlonde/sc2-mic-auto/releases/latest)** · 압축을 푼 뒤 `install.cmd` 실행
+
 ## 설치
 
 1. Windows 10/11 **x64**, [Python 3.10 이상](https://www.python.org/downloads/windows/)이 필요합니다. Python 설치 시 **Add Python to PATH**를 체크하세요.
